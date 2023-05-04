@@ -21,4 +21,4 @@
 
 **Time took to complete this project**: 1 Hour
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://typing-game-program.netlify.app/) of the project
